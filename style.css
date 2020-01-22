@@ -37,6 +37,7 @@ img{
 }
 .header-logo:hover, .header__bag:hover{
 	opacity: 0.8;  
+	cursor: pointer;
 }
 .header-logo:active, .header__bag:active{
 	opacity: 0.6;  
